@@ -1,0 +1,1 @@
+TEST MSG:gzkst-computer
